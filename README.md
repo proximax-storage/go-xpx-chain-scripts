@@ -1,1 +1,1 @@
-# go-xpx-chain-scripts
+# xpx-chain-scripts
